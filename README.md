@@ -1,28 +1,27 @@
-# Adon Johnson — Portfolio
+# Adon Johnson — Personal Portfolio
 
-A responsive personal portfolio website built with HTML, CSS and JavaScript.
+A responsive portfolio website built with HTML, CSS and JavaScript and published with GitHub Pages.
 
-## Personalise your portfolio photo
-1. Add your portrait photo to this folder.
-2. Rename it exactly `profile.jpg`.
-3. Keep it beside `index.html`.
-4. Commit and push the file to GitHub.
+## Included
+- Home, About, Areas of Interest
+- Projects and academic project concept
+- Internship and training experience
+- Certificate gallery with certificate images
+- Education and contact details
+- Responsive mobile navigation
 
-If `profile.jpg` is not present, the website displays an AJ initials avatar.
+## Profile photo
+`profile.jpg` is used in the homepage portrait. Replace it with another image using the same filename if needed.
 
-## Update your website
-Edit `index.html`, `style.css`, or `script.js`, then commit the changes to your GitHub repository.
+## Update and publish
+1. Upload the contents of this folder to the root of the `main` branch in `adon-portfolio`.
+2. Commit the changes.
+3. GitHub Pages should redeploy automatically.
 
-## Publish with GitHub Pages
-For the repository `adon-portfolio`:
-- Open Settings → Pages.
-- Choose Deploy from a branch.
-- Select `main` and `/ (root)`.
-- Save.
+Website: https://adonjohnson.github.io/adon-portfolio/
 
-Expected URL: https://adonjohnson.github.io/adon-portfolio/
-
-## Contact
-adonjohnson85@gmail.com
-
-Replace placeholder LinkedIn links with your actual profile URL when available. Only list skills, certificates and project statuses that accurately reflect your experience.
+## Accuracy notes
+- The Wildlife Sanctuary Entry Management System is labelled as an academic project concept, not a completed project.
+- Areas of interest are described as areas being explored, not expert-level skills.
+- Add group projects only after confirming their names, technologies, team contribution and current status.
+- Replace placeholder or outdated links only with your actual profile URLs.
